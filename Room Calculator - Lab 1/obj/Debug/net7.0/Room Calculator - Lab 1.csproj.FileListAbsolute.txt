@@ -1,0 +1,15 @@
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/bin/Debug/net7.0/Room Calculator - Lab 1
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/bin/Debug/net7.0/Room Calculator - Lab 1.deps.json
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/bin/Debug/net7.0/Room Calculator - Lab 1.runtimeconfig.json
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/bin/Debug/net7.0/Room Calculator - Lab 1.dll
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/bin/Debug/net7.0/Room Calculator - Lab 1.pdb
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.csproj.AssemblyReference.cache
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.AssemblyInfoInputs.cache
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.AssemblyInfo.cs
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.csproj.CoreCompileInputs.cache
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.dll
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/refint/Room Calculator - Lab 1.dll
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.pdb
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/Room Calculator - Lab 1.genruntimeconfig.cache
+/Users/glandoncomputer/Projects/Room Calculator - Lab 1/Room Calculator - Lab 1/obj/Debug/net7.0/ref/Room Calculator - Lab 1.dll

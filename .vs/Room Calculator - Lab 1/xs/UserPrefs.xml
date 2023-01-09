@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4929CDA8-6F6B-4C66-A9B6-78FF76473FB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Room Calculator - Lab 1/Program.cs">
+    <Files>
+      <File FileName="Room Calculator - Lab 1/Program.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Room Calculator - Lab 1" expanded="True">
+            <Node name="Room Calculator - Lab 1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Room_220Calculator_220-_220Lab_2201 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
